@@ -57,7 +57,7 @@ Make sure you have the following installed:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/student-frontend.git
+git clone https://github.com/CedardJay/student-frontend.git
 cd student-frontend
 ```
 
